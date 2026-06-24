@@ -1,5 +1,7 @@
 # DAMO
 
+DAMO - 우리 모임의 다음을 정하다
+
 DAMO is an MVP for helping recurring groups decide the next meeting place.
 
 The product flow is intentionally narrow:
